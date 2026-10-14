@@ -1,0 +1,7 @@
+## Interface: 11508
+## Title: Combat Log Reminder
+## Notes: Reminds you to start combat logging when entering a dungeon or raid.
+## Author: Nolt
+## Version: 1.0.0
+
+CombatLogReminder.lua
